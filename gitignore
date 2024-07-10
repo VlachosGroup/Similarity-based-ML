@@ -1,3 +1,0 @@
-# Ignore all compiled/cached Python code
-__pycache__
-*.pyc
